@@ -3,7 +3,7 @@
 Backend developer from Tashkent, Uzbekistan — **Node.js · NestJS · TypeScript**.
 5 years of commercial development plus 8 years in performance marketing, so I build products with business metrics in mind.
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,redis,mongodb,rabbitmq,docker,nextjs,react,jest" alt="Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Redis, MongoDB, RabbitMQ, Docker, Next.js, React, Jest" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,redis,mongodb,rabbitmq,docker,jest" alt="Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Redis, MongoDB, RabbitMQ, Docker, Jest" />
 
 ### Selected projects
 
@@ -41,7 +41,8 @@ Most of my work lives in private repositories (client and commercial projects), 
 
 - **QA background:** QA Lead, Cypress E2E and API tests
 - **Marketing tech:** Meta Pixel & Conversions API, GTM, GA4, Bitrix24 and amoCRM integrations
+- **AI-assisted development:** Claude Code in daily work; the frontends of my projects (React, Next.js) are built with AI tools
 
 ### Contact
 
-Telegram: [@madshox](https://t.me/madshox) · open to backend / full-stack roles in Tashkent or remote
+Telegram: [@madshox](https://t.me/madshox) · open to backend roles in Tashkent or remote
